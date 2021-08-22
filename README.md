@@ -1,6 +1,6 @@
 #  A Twitter Clone
 
-### What we are building
+### task
 
 A basic CRUD principle where we can create, read, update, and destroy *Tweeets*. On top of the *Tweeets*, I used Devise which makes creating an entire user role and authentication system easy.
 
